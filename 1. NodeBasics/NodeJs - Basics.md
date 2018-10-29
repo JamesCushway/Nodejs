@@ -124,3 +124,47 @@ The event loop keeps the Node process running, and handles all the callbacks. At
 
 
 Different request are seoperate and therefore not at security request becausew the server request listener is executed seperatly for each request.
+
+---
+### Imports and Exports
+To export a fucntion, or variable, or class:
+```javascript
+module.exports = randomFunction;
+```
+
+Mulitple variables and functions can also be exported:
+```javascript
+module.exports = {
+    handler: randomEventHandlerFunc,
+    word: "word"
+}
+```
+
+When importing modules, the file must be used for the import. If a file, route.js, containes modules, the import is as follows:
+```javascript
+const routes = require('./route');
+```
+---
+### Module summary
+**How the web works:**
+
+Client => Request => Server => Response => Client
+
+**Prgram Lifecycle & Event Loop:**
+- Nodejs runs non blocking JS code and uses event driven code (Event loop) to run logic
+- Node process terminates when there is no more work to do
+- createServer() never finishes by defualt
+**Asynchronous:**
+- JS is non blocking
+- Uses callbacks and events
+  - Order changes
+**Request & Responses**
+- parse responses in buffers and chunks
+- Avoid double responses with async code
+**NodeJS and Core Modules**
+- http, fs, path ...
+- Can be imported into any file
+- Import via require
+**Node Module System**
+- Import via require for core & 3rd party modules
+- Export via module.exports
