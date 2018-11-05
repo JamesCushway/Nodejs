@@ -1,0 +1,21 @@
+/* Colour Scheme
+** Dark blue:        #02547D
+** Ocean Blue:       #0284A7
+** Turquoise:        #00BEC4
+** Baby Blue:        #A9E8DC
+** Light Blue cream: #E1F7E7
+ */
+
+.student-list {
+    width: 30rem;
+    max-width: 90%;
+    margin: auto;
+    list-style: none;
+}
+
+.student-list__item {
+    color: #00bec4;
+    margin: 5px;
+    text-align: center;
+    font-size: 20px;
+}

@@ -1,0 +1,33 @@
+/* Colour Scheme
+** Dark blue:        #02547D
+** Ocean Blue:       #0284A7
+** Turquoise:        #00BEC4
+** Baby Blue:        #A9E8DC
+** Light Blue cream: #E1F7E7
+ */
+
+.product-form {
+    width: 20rem;
+    max-width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.form-wrapper label,
+.form-wrapper input {
+    display: block;
+    width: 100%;
+}
+
+.form-wrapper input {
+    border: 1px solid #0284A7;
+    font: inherit;
+    border-radius: 2px;
+    margin-bottom: 20px;
+    padding: 5px 8px;
+}
+
+::placeholder {
+    opacity: 1;
+    font-size: 12px;
+}
