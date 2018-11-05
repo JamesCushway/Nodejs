@@ -2,10 +2,6 @@
 <project version="4">
   <component name="JavaScriptLibraryMappings">
     <includedPredefinedLibrary name="Node.js Core" />
-    <excludedPredefinedLibrary name="NodeJS/2. Improved Development Workflow/Project/node_modules" />
     <excludedPredefinedLibrary name="NodeJS/3. ExpressJS/Assignment/node_modules" />
-    <excludedPredefinedLibrary name="NodeJS/3. ExpressJS/Assignment2/node_modules" />
-    <excludedPredefinedLibrary name="NodeJS/3. ExpressJS/Project/node_modules" />
-    <excludedPredefinedLibrary name="NodeJS/4. Dynamic Content and Templating/Project_Pug/node_modules" />
   </component>
 </project>

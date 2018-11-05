@@ -2,69 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ff8627e-1a81-4a66-87ad-739a003793e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/1. NodeBasics/Notes/eventLoop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. NodeBasics/Notes/server.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improved Development Workflow/Project/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improved Development Workflow/Project/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Assignment/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Assignment/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Assignment2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Assignment2/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Assignment2/public/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Assignment2/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Assignment2/views/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Assignment2/views/users.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Notes/middleware.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Notes/summary.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Project/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Project/public/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Project/routes/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Project/routes/shop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Project/utils/path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Project/views/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Project/views/add-product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. ExpressJS/Project/views/shop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/public/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/public/css/product.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/routes/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/routes/shop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/utils/path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/views/404.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/views/add-product.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/views/includes/end.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/views/includes/head.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/views/includes/navigation.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/views/shop.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Handlebars/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Handlebars/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Handlebars/public/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Handlebars/public/css/product.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Handlebars/routes/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Handlebars/routes/shop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Handlebars/utils/path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Handlebars/views/404.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Handlebars/views/add-product.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Handlebars/views/layouts/base.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Handlebars/views/shop.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Pug/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Pug/public/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Pug/public/css/product.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Pug/routes/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Pug/routes/shop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Pug/utils/path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Pug/views/shop.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/public/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/public/css/user-form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/public/css/users.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/routes/add-user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/routes/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/views/includes/head.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/views/includes/header.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/views/user-form.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/views/users.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. NodeBasics/NodeJs - Basics.md" beforeDir="false" afterPath="$PROJECT_DIR$/1. NodeBasics/Notes/NodeJs - Basics.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. NodeBasics/Project/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/1. NodeBasics/Assignment/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. NodeBasics/Project/Views/greeting.html" beforeDir="false" afterPath="$PROJECT_DIR$/1. NodeBasics/Assignment/Views/greeting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. NodeBasics/Project/Views/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/1. NodeBasics/Assignment/Views/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. NodeBasics/Project/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/1. NodeBasics/Assignment/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. NodeBasics/SimpleNodeServer/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/1. NodeBasics/Assignment/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. NodeBasics/SimpleNodeServer/message.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1. NodeBasics/Project/message.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. NodeBasics/SimpleNodeServer/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/1. NodeBasics/Project/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/app.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -79,75 +31,26 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/app.js">
+        <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            <state relative-caret-position="115">
+              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/routes/admin.js">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state relative-caret-position="207">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shop.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/routes/shop.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shop.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/views/shop.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="404.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/views/404.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add-product.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/views/add-product.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="56" lean-forward="true" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navigation.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/views/includes/navigation.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/views/includes/head.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
+      <file leaf-file-name="add-user.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/routes/add-user.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -155,9 +58,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="Pug File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -167,10 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2_Improved_Development_Workflow_and_Debugging/routes.js" />
-        <option value="$PROJECT_DIR$/3_ExpressJS/package.json" />
-        <option value="$PROJECT_DIR$/3_ExpressJS/Assignment/README.md" />
-        <option value="$PROJECT_DIR$/3_ExpressJS/Assignment/package.json" />
         <option value="$PROJECT_DIR$/3_ExpressJS/Assignment/app.js" />
         <option value="$PROJECT_DIR$/3_ExpressJS/utils/path.js" />
         <option value="$PROJECT_DIR$/3_ExpressJS/routes/shop.js" />
@@ -217,7 +116,11 @@
         <option value="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/views/shop.ejs" />
         <option value="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/views/404.ejs" />
         <option value="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/views/add-product.ejs" />
+        <option value="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/README.md" />
+        <option value="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/routes/users.js" />
+        <option value="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/package.json" />
         <option value="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/app.js" />
+        <option value="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/app.js" />
       </list>
     </option>
   </component>
@@ -234,13 +137,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/2. Improved Development Workflow/Project/node_modules" />
     <handled-path value="$PROJECT_DIR$/3. ExpressJS/Assignment/node_modules" />
-    <handled-path value="$PROJECT_DIR$/3. ExpressJS/Assignment2/node_modules" />
-    <handled-path value="$PROJECT_DIR$/3. ExpressJS/Project/node_modules" />
-    <handled-path value="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/node_modules" />
-    <handled-path value="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Handlebars/node_modules" />
-    <handled-path value="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Pug/node_modules" />
+    <handled-path value="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -248,6 +146,7 @@
       <path value="$PROJECT_DIR$/3. ExpressJS/Assignment/package.json" />
       <path value="$PROJECT_DIR$/3. ExpressJS/Assignment2/package.json" />
       <path value="$PROJECT_DIR$/3. ExpressJS/Project/package.json" />
+      <path value="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/package.json" />
       <path value="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/package.json" />
       <path value="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Handlebars/package.json" />
       <path value="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Pug/package.json" />
@@ -281,20 +180,20 @@
               <item name="NodeJS" type="b2602c69:ProjectViewProjectNode" />
               <item name="NodeJS" type="462c0819:PsiDirectoryNode" />
               <item name="4. Dynamic Content and Templating" type="462c0819:PsiDirectoryNode" />
-              <item name="Project_EJS" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NodeJS" type="b2602c69:ProjectViewProjectNode" />
               <item name="NodeJS" type="462c0819:PsiDirectoryNode" />
               <item name="4. Dynamic Content and Templating" type="462c0819:PsiDirectoryNode" />
-              <item name="Project_EJS" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NodeJS" type="b2602c69:ProjectViewProjectNode" />
               <item name="NodeJS" type="462c0819:PsiDirectoryNode" />
               <item name="4. Dynamic Content and Templating" type="462c0819:PsiDirectoryNode" />
-              <item name="Project_EJS" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -302,8 +201,6 @@
               <item name="NodeJS" type="462c0819:PsiDirectoryNode" />
               <item name="4. Dynamic Content and Templating" type="462c0819:PsiDirectoryNode" />
               <item name="Project_EJS" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="includes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -340,11 +237,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment" />
       <recent name="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS" />
       <recent name="$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Handlebars" />
       <recent name="$PROJECT_DIR$/4_Dynamic_Content_and_Templating" />
       <recent name="$PROJECT_DIR$/1_NodeBasics/Notes" />
-      <recent name="$PROJECT_DIR$/3_ExpressJS/Notes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -378,12 +275,12 @@
       <workItem from="1541249299934" duration="323000" />
       <workItem from="1541249636978" duration="5765000" />
       <workItem from="1541363625151" duration="2589000" />
-      <workItem from="1541406556417" duration="4842000" />
+      <workItem from="1541406556417" duration="5847000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33879000" />
+    <option name="totallyTimeSpent" value="34884000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -420,89 +317,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3. ExpressJS/Assignment2/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3. ExpressJS/Assignment2/public/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3. ExpressJS/Assignment2/views/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1. NodeBasics/Notes/NodeJs - Basics.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="327">
-            <caret line="122" column="25" lean-forward="true" selection-start-line="122" selection-start-column="25" selection-end-line="122" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3. ExpressJS/Project/utils/path.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3. ExpressJS/Notes/ExpressJs.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="230">
-            <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1. NodeBasics/Notes/server.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1. NodeBasics/Notes/eventLoop.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3. ExpressJS/Assignment2/views/users.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Pug/utils/path.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Project_Pug/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3. ExpressJS/Project/public/css/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="87" column="1" lean-forward="true" selection-start-line="53" selection-end-line="87" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Project/views/shop.html" />
     <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Project/views/add-product.html" />
     <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Project/views/404.html" />
@@ -698,7 +512,7 @@
     <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/routes/shop.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -712,7 +526,7 @@
     <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/views/includes/head.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -726,7 +540,7 @@
     <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/views/add-product.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="8" column="56" lean-forward="true" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -737,10 +551,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="92">
+            <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/routes/add-user.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/public/css/users.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/public/css/user-form.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/public/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/views/includes/header.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/views/includes/head.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/views/users.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/views/user-form.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Project_EJS/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Dynamic Content and Templating/Assignment/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
         </state>
       </provider>
     </entry>
