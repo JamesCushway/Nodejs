@@ -1,0 +1,12 @@
+extends layouts/base.pug
+
+block content
+    form.product-form(action="/admin/add-product", method="POST")
+        .form-control
+            label(for="title") Title
+            input(type="text", name="title", id="title")
+            label(for="price") Price
+            input(type="text", name="price", id="price")
+            label(for="description") Description
+            input(type="text", name="description", id="description")
+        button.product-form__btn(type="submit") Submit

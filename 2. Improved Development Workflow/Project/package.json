@@ -1,0 +1,18 @@
+{
+  "name": "2_improved_development_workflow_and_debugging",
+  "version": "1.0.0",
+  "description": "Node overview",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "James Cushway",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  }
+}

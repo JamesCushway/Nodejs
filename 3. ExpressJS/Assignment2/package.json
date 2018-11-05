@@ -1,0 +1,14 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "1. Create an expressjs app which serves 2 html files for '/' & '/users' 2. Add static css or js files to the project that should be required by at least one of the html files",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

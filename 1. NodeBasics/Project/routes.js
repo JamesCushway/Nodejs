@@ -1,34 +1,36 @@
 const fs = require('fs');
 
-const requestListener = (req, res) => {
+const requestHandler = (req, res) => {
   const url = req.url;
   const method = req.method;
-
+  res.setHeader('Content-Type', 'text/html');
   if (url === '/') {
-    fs.readFile('./Views/greeting.html', function (err, data){
-      res.writeHead(200, {'Content-Type': 'text/html','Content-Length':data.length});
-      res.write(data);
-      return res.end();
-    });
-  } else if (url === '/users') {
-    fs.readFile('./Views/list.html', function (err, data){
-      res.writeHead(200, {'Content-Type': 'text/html','Content-Length':data.length});
-      res.write(data);
-      return res.end();
-    });
-  } else if (url === '/create-user' && method === 'POST') {
-    const data = [];
+    res.write('<html>');
+    res.write('<head><title>Enter Message</title></head>');
+    res.write('<body><form action="/message" method="POST"><input type="text" name="message"><button type="submit">Send</button></form></body>');
+    res.write('</html>');
+    return res.end();
+  }
+  if (url === '/message' && method === 'POST') {
+    const body = [];
     req.on('data', (chunk) => {
-      data.push(chunk);
+      body.push(chunk);
     });
     req.on('end', () => {
-      const parsedData = Buffer.concat(data).toString();
-      console.log(parsedData.split('=')[1]);
+      const parsedBody = Buffer.concat(body).toString();
+      const message = parsedBody.split('=')[1];
+      fs.writeFileSync('message.txt', message);
     });
     res.statusCode = 302;
     res.setHeader('Location', '/');
     return res.end();
   }
+  res.setHeader('Content-Type', 'text/html');
+  res.write('<html>');
+  res.write('<head><title>My First Page</title></head>');
+  res.write('<body><div>Hello World</div></body>');
+  res.write('</html>');
+  res.end();
 }
 
-module.exports = requestListener;
+module.exports = requestHandler;
