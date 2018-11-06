@@ -1,0 +1,35 @@
+/* colour scheme
+** Steel grey: #515261
+** Blue Grey: #828D9A
+** Beige: #F1DCD8
+** Rust: #E16A5A
+** Light Grey: #98999D
+ */
+
+.product-form {
+    width: 20rem;
+    max-width: 90%;
+    margin: auto;
+    display: block;
+}
+
+.form-control label,
+.form-control input,
+.form-control textarea {
+    display: block;
+    width: 100%;
+}
+
+.form-control input,
+.form-control textarea {
+    border: 1px solid #98999D;
+    font: inherit;
+    border-radius: 2px;
+    margin-bottom: 20px;
+    padding: 5px 8px;
+}
+
+.form-control input:focus,
+.form-control textarea:focus {
+    outline-color: #E16A5A;
+}
