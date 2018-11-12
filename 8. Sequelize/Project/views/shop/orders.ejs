@@ -1,0 +1,28 @@
+    <%- include('../includes/head.ejs') %>
+</head>
+<body>
+    <%- include('../includes/navigation.ejs') %>
+    <main>
+        <% if (orders.length > 0) { %>
+        <ul class="cart__item-list">
+            <% orders.forEach(order => { %>
+            <li class="cart__item">
+                <h1><%= order.id %></h1>
+                <% order.products.forEach(product => { %>
+                    <li class="cart__item">
+                        <%= product.title %> (<%= product.orderItem.quantity %>)
+                    </li>
+                <% }) %>
+            </li>
+            <% }) %>
+        </ul>
+        <div class="centered">
+            <form>
+                <button class="btn danger" type="submit">Order</button>
+            </form>
+        </div>
+        <% } else { %>
+        <h1>No Order!</h1>
+        <% } %>
+    </main>
+    <%- include('../includes/end.ejs') %>
